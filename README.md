@@ -1,2 +1,2 @@
 # Myown-Education-Solutions
-This repository contains HTML,CSS &amp; JS file of my own education solution web-site.
+This is my self-learning project to build a website for education institution for Computer Science.
